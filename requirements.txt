@@ -23,6 +23,9 @@ pillow>=9.0.0
 # ----- 向量检索 -----
 faiss-cpu>=1.7.0
 
+# ----- 生命周期数据湖 -----
+duckdb>=0.10.0
+
 # ----- LLM & AI Agent -----
 langchain>=0.1.0
 langchain-google-genai>=0.0.6
